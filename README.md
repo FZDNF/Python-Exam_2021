@@ -1,6 +1,6 @@
 # Mietwohnungen 2016 – Deskriptive Statistik, Korrelation & Regression (Prüfungsleistung)
 
-Dieses Repository enthält eine originale Prüfungsleistung aus meinem Studium.  
+Dieses Repository enthält eine originale Prüfungsleistung aus meinem Studium aus dem Jahr 2021.  
 Ziel der Aufgabe war es, einen bereitgestellten Datensatz zu Mietwohnungen (CSV) in Python einzulesen, deskriptiv auszuwerten und einfache Zusammenhänge statistisch zu untersuchen.
 
 ## Inhalte (Aufgabenübersicht)
